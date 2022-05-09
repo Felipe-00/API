@@ -1,0 +1,23 @@
+div{
+    width: 35em;
+    border: solid black 2px;
+    padding: 40px;
+    background-color: white;
+}
+
+body{
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    justify-content: center;
+    display: flex;
+}
+
+button{
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
